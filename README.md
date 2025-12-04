@@ -49,9 +49,7 @@ The following filters were selected during data extraction:
 - The scripts provided in this repository reproduce all processing steps, ensuring transparency and reproducibility.  
 
 ## 🎯 Purpose
-This repository was created as part of a master’s dissertation, in compliance with ABNT academic standards.  
+This repository was created as part of the dissertation submitted to the São Paulo School of Law of the Fundação Getúlio Vargas, as a requirement for obtaining the degree of Master in Tax Law.  
 Its public availability aims to **enable peer verification** and guarantee the reproducibility of the results presented.  
 
 ---
-
-Would you like me to also add a short section with instructions on how someone can run your scripts (e.g., Python version, required libraries, and a quick start example)? That would make the README even more practical for reviewers.
